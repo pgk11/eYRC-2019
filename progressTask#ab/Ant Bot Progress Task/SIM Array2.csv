@@ -1,0 +1,6 @@
+
+AH type, SIM ID, AH Number, Supply 2, Supply 1, Trash
+R, 6, 0, O, W, 0
+R, 99, 3, O, H, 1
+Q, 208, 2, L, O, 0
+R, 33, 1, O, O, 1
